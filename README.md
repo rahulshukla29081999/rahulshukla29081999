@@ -2,18 +2,18 @@
 
 ### Hi there 👋 Rahul here 😎
 
-I am currently a Computer science student exploring different technologies 😊
+I'm Currently A Computer Science Student Exploring Different Technologies 😊
 
-- 🔭 I’m currently working on ...  Web Developmet -Pyhon Django
-- 🌱 I’m currently learning ...web development and Programming
-- 👯 I’m looking to collaborate on ... Web
-- 💬 Ask me about ...Web 
-- 📫 How to reach me: ...shuklarahulkanpur@gmail.com
+- 🔭 I’m Currently Working On ...  Web Developmet -Pyhon Django
+- 🌱 I’m Currently Learning ...Web Development And Programming
+- 👯 I’m Looking To Collaborate On ... Web
+- 💬 Ask Me About ...Web 
+- 📫 How To Reach Me: ...shuklarahulkanpur@gmail.com
 - 😄 Pronouns: ... HE/Him
-- ⚡ Fun fact: ...Programming is 10% code rest 90% is debugging
+- ⚡ Fun Fact: ...Programming is 10% code rest 90% is debugging
 
 ### Technologies and languages and Framework known:
- python, sql, github,Django, Html, Css
+ Python, Sql, Github,Django, Html, Css
 
 <br>
 <br>
