@@ -4,7 +4,7 @@
 
 I am currently a Computer science student exploring different technologies 😊
 
-- 🔭 I’m currently working on ...  Web Developmet -MERN stack
+- 🔭 I’m currently working on ...  Web Developmet -Pyhon Django
 - 🌱 I’m currently learning ...web development and Programming
 - 👯 I’m looking to collaborate on ... Web
 - 💬 Ask me about ...Web 
@@ -12,8 +12,8 @@ I am currently a Computer science student exploring different technologies 😊
 - 😄 Pronouns: ... HE/Him
 - ⚡ Fun fact: ...Programming is 10% code rest 90% is debugging
 
-### Technologies and languages known:
-C, C++, python, javascript, , sql, github
+### Technologies and languages and Framework known:
+ python, sql, github,Django, Html, Css
 
 <br>
 <br>
