@@ -1,96 +1,45 @@
-<!-- ================= PROFILE ================= -->
-<h1 align="center">Hi 👋, I'm Rahul Shukla</h1>
-<h3 align="center"> DevOps Engineer  | Cloud-Native Enthusiast</h3>
+<h1 align="center">Rahul Shukla</h1>
+<h3 align="center">Backend Developer → DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Docker+%26+Kubernetes+Enthusiast;Building+Cloud-Native+Applications;DevOps+Engineer&center=true&width=700&height=45">
+  Docker • Kubernetes • Linux • Backend Systems
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 💻 Software Engineer 
-- 🐳 Built and deployed **real-world Docker projects**
-- ☸️ Hands-on experience with **Kubernetes (Pods, Deployments, Services)**
-- ⚙️ Interested in **DevOps, automation & scalable systems**
-- 📈 Focused on **practical learning & production-ready setups**
-
----
-
-## 🛠️ Tech Stack
-
-## 📊 Tech Stack Visualization
-
-🐳 **Docker**        ▓▓▓▓▓▓▓▓▓▓  
-☸️ **Kubernetes**   ▓▓▓▓▓▓▓▓░░  
-🐧 **Linux**        ▓▓▓▓▓▓▓▓░░  
-🔧 **Git**          ▓▓▓▓▓▓▓▓▓░  
-
-🐍 **Python**       ▓▓▓▓▓▓▓▓▓░  
-🟢 **Node.js**      ▓▓▓▓▓▓▓▓░░  
-⚡ **Flask**        ▓▓▓▓▓▓▓▓░░  
-
-🍃 **MongoDB**      ▓▓▓▓▓▓▓▓░░  
-🐬 **MySQL**        ▓▓▓▓▓▓▓░░░  
-
-
-
-
-
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulshukla29081999&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulshukla29081999&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshukla29081999&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshukla29081999&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulshukla29081999&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulshukla29081999&theme=tokyonight&utcOffset=5.5"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulshukla29081999&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulshukla29081999&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulshukla29081999&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulshukla29081999&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌱 Currently Focusing On
+## 🧠 About
 
-- Kubernetes 
-- DevOps best practices
-- CI/CD fundamentals
-- Cloud-native backend systems
+Backend engineer transitioning into **DevOps**, focused on:
+- Containerization & orchestration
+- Cloud-native application deployment
+- Automation-first mindset
+- Production-ready systems
 
----
-
-## 🎯 DevOps Mindset
-
-✔ Automation over manual work  
-✔ Stability before scale  
-✔ Learn → Build → Break → Fix  
-✔ Production-ready thinking  
+I believe in **building → breaking → fixing → scaling**.
 
 ---
 
-## 📫 Connect With Me
+## ⚙️ Core Stack
 
-- 💼 GitHub: https://github.com/rahulshukla29081999
-- 📧 Email: shuklarahulkanpur@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/rahul-shukla-a35831180
+**DevOps:** Docker, Docker Compose, Kubernetes, Linux, Git  
+**Backend:** Python, Node.js, Flask, Express  
+**Databases:** MongoDB, MySQL  
+
 ---
 
-⭐ *If my work helps you, consider giving a star!*  
+## 🔵💼 Connect
+
+🔵💼 LinkedIn  
+🌐 GitHub: https://github.com/rahulshukla29081999
+
+---
+
+⚙️ *Reliable systems over fancy tools*
