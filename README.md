@@ -60,6 +60,11 @@
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulshukla29081999&theme=tokyo-night&hide_border=true"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulshukla29081999&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshukla29081999&theme=tokyonight&hide_border=true" height="165"/>
@@ -67,6 +72,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshukla29081999&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulshukla29081999&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulshukla29081999&theme=tokyonight&utcOffset=5.5"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulshukla29081999&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulshukla29081999&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulshukla29081999&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
