@@ -40,9 +40,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulshukla29081999&theme=tokyo-night&hide_border=true"/>
-</p>
+<p align="center"> <!-- Total Contribution Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulshukla29081999&theme=tokyo-night&hide_border=true" alt="Daily Contribution Graph"/> </p> <p align="center"> <!-- Total Commits, PRs, Issues, Contributions --> <img src="https://github-readme-stats.vercel.app/api?username=rahulshukla29081999&show_icons=true&theme=tokyo-night&hide_border=false&count_private=true" alt="GitHub Stats"/> </p> <p align="center"> <!-- Top Languages Used --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshukla29081999&layout=compact&theme=tokyo-night&hide_border=false" alt="Top Languages"/> </p> <p align="center"> <!-- Streak / Daily Contribution Summary --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshukla29081999&theme=tokyo-night&hide_border=false" alt="GitHub Streak"/> </p>
 
 
 
