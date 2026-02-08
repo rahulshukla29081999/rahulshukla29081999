@@ -20,26 +20,22 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+## 📊 Tech Stack Visualization
 
-### ⚙️ Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+🐳 **Docker**        ▓▓▓▓▓▓▓▓▓▓  
+☸️ **Kubernetes**   ▓▓▓▓▓▓▓▓░░  
+🐧 **Linux**        ▓▓▓▓▓▓▓▓░░  
+🔧 **Git**          ▓▓▓▓▓▓▓▓▓░  
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+🐍 **Python**       ▓▓▓▓▓▓▓▓▓░  
+🟢 **Node.js**      ▓▓▓▓▓▓▓▓░░  
+⚡ **Flask**        ▓▓▓▓▓▓▓▓░░  
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+🍃 **MongoDB**      ▓▓▓▓▓▓▓▓░░  
+🐬 **MySQL**        ▓▓▓▓▓▓▓░░░  
+
+
+
 
 
 ## 📊 GitHub Analytics
@@ -94,7 +90,7 @@
 
 - 💼 GitHub: https://github.com/rahulshukla29081999
 - 📧 Email: shuklarahulkanpur@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/rahul-shukla-a35831180
 ---
 
 ⭐ *If my work helps you, consider giving a star!*  
-⚙️ **Building reliable systems, one container at a time**
