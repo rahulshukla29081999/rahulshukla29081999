@@ -1,45 +1,76 @@
-<h1 align="center">Rahul Shukla</h1>
-<h3 align="center">Backend Developer → DevOps Engineer</h3>
+<!-- ================= PROFILE ================= -->
+<h1 align="center">Hi 👋, I'm Rahul Shukla</h1>
+<h3 align="center"> DevOps Engineer  | Cloud-Native Enthusiast</h3>
 
 <p align="center">
-  Docker • Kubernetes • Linux • Backend Systems
+  <img src="https://readme-typing-svg.demolab.com/?lines=Docker+%26+Kubernetes+Enthusiast;Building+Cloud-Native+Applications;DevOps+Engineer&center=true&width=700&height=45">
 </p>
 
 ---
 
-## 📊 GitHub Overview
+## 🚀 About Me
+
+- 💻 Software Engineer 
+- 🐳 Built and deployed **real-world Docker projects**
+- ☸️ Hands-on experience with **Kubernetes (Pods, Deployments, Services)**
+- ⚙️ Interested in **DevOps, automation & scalable systems**
+- 📈 Focused on **practical learning & production-ready setups**
+
+---
+
+## 🛠️ Tech Stack
+
+## 📊 Tech Stack Visualization
+
+🐳 **Docker**        ▓▓▓▓▓▓▓▓▓▓  
+☸️ **Kubernetes**   ▓▓▓▓▓▓▓▓░░  
+🐧 **Linux**        ▓▓▓▓▓▓▓▓░░  
+🔧 **Git**          ▓▓▓▓▓▓▓▓▓░  
+
+🐍 **Python**       ▓▓▓▓▓▓▓▓▓░  
+🟢 **Node.js**      ▓▓▓▓▓▓▓▓░░  
+⚡ **Flask**        ▓▓▓▓▓▓▓▓░░  
+
+🍃 **MongoDB**      ▓▓▓▓▓▓▓▓░░  
+🐬 **MySQL**        ▓▓▓▓▓▓▓░░░  
+
+
+
+
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulshukla29081999&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulshukla29081999&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-## 🧠 About
-
-Backend engineer transitioning into **DevOps**, focused on:
-- Containerization & orchestration
-- Cloud-native application deployment
-- Automation-first mindset
-- Production-ready systems
-
-I believe in **building → breaking → fixing → scaling**.
 
 ---
 
-## ⚙️ Core Stack
+## 🌱 Currently Focusing On
 
-**DevOps:** Docker, Docker Compose, Kubernetes, Linux, Git  
-**Backend:** Python, Node.js, Flask, Express  
-**Databases:** MongoDB, MySQL  
-
----
-
-## 🔵💼 Connect
-
-🔵💼 LinkedIn  
-🌐 GitHub: https://github.com/rahulshukla29081999
+- Kubernetes 
+- DevOps best practices
+- CI/CD fundamentals
+- Cloud-native backend systems
 
 ---
 
-⚙️ *Reliable systems over fancy tools*
+## 🎯 DevOps Mindset
+
+✔ Automation over manual work  
+✔ Stability before scale  
+✔ Learn → Build → Break → Fix  
+✔ Production-ready thinking  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/rahulshukla29081999
+- 📧 Email: shuklarahulkanpur@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/rahul-shukla-a35831180
+---
+
+⭐ *If my work helps you, consider giving a star!*  
