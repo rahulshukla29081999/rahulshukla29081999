@@ -41,9 +41,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center"> <!-- Total Contribution Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulshukla29081999&theme=tokyo-night&hide_border=true" alt="Daily Contribution Graph"/> </p> 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=rahulshukla29081999&theme=tokyo-night&hide_border=false" alt="GitHub Streak Stats"/> </p>
 
-
-<p align="center"> <!-- Total Commits, PRs, Issues, Contributions --> <img src="https://github-readme-stats.vercel.app/api?username=rahulshukla29081999&show_icons=true&theme=tokyo-night&hide_border=false&count_private=true" alt="GitHub Stats"/> </p>
 
 
 
