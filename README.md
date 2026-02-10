@@ -8,6 +8,15 @@
 
 ---
 
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-FF6F00?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
 ## 🚀 About Me
 
 - 💻 Software Engineer 
